@@ -5,7 +5,7 @@ import tw from "tailwind-styled-components"
 import Map from './components/Map'
 import Link from 'next/Link'
 
-//Uber app baby
+//Uber app baby......
 
 
 export default function Home() {
